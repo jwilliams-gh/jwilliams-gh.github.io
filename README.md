@@ -3,5 +3,5 @@
 # My "Sandbox" Org
 [jwilliams-gh-sandbox](https://github.com/jwilliams-gh-sandbox)
 # Blog
-## test
+[My Organization Structure]({% link blog/my-org-structure.md %})
 # TIL (Today I Learned)
